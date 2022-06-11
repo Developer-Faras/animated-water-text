@@ -1,26 +1,18 @@
-![Screenshot](./images/readme/screenshot.png)
+![Screenshot](./img/readme.png)
 
 <br />
-<h1 style="text-align:center; border: none;">Sass Landing Page</h1>
+<h1 style="text-align:center; border: none;">Water Text Animation</h1>
 
 <br />
 
-<h3>Sass Landing Page Desine With Bootstrap</h3>
+<h3>Water Text Animation In HTML AAnd Css</h3>
 
 <h2>Used Language:</h2>
 <ul style="list-style: number;">
     <li style="font-weight: bold;">HTML5</li>
     <li style="font-weight: bold;">CSS3</li>
-    <li style="font-weight: bold;">SCSS</li>
-    <li style="font-weight: bold;">Javascript</li>
 </ul>
 
-<br />
-<h2>Used Frameworks:</h2>
-<ul style="list-style: number;">
-    <li style="font-weight: bold;">Bootstrap 5</li>
-    <li style="font-weight: bold;">Google Maps</li>
-</ul>
 
 <br />
 <h2>Included:</h2>
@@ -33,7 +25,7 @@
 </ul>
 
 <br />
-<a href="https://developer-faras.github.io/sass-landing-page/" style="padding: 10px 20px; background: #fff; text-decoration: none; color: rgb(55, 99, 245);" >Visit Demo</a>
+<a href="https://developer-faras.github.io/animated-water-text/" style="padding: 10px 20px; background: #fff; text-decoration: none; color: rgb(55, 99, 245);" >Visit Demo</a>
 
 
 
