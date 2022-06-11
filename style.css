@@ -49,7 +49,6 @@ body{
 .content h2:nth-child(2){
     color: transparent;
     animation: animate 3s ease-in-out infinite;
-    z-index: 100;
     color: #01b0ff;
 }
 
